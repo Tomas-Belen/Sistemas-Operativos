@@ -1,5 +1,5 @@
 # Sistemas-Operativos
-Proyectos varios de la materia Sitemas Operativos
+Proyectos varios de la materia Sistemas Operativos
 
 *Lab 1*: Programar nuestro propio shell de Linux
 
